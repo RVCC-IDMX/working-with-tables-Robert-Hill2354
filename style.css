@@ -1,3 +1,36 @@
 body {
-  background-color: aliceblue;
+  background-color: #be0aff;
+}
+
+h1{
+
+color: #09ebfb;
+
+}
+
+table.GeneratedTable {
+  width: 100%;
+  background-color: #be0aff;
+  border-collapse: collapse;
+  border-width: 2px;
+  border-color: #590179;
+  border-style: solid;
+  color: #09ebfb;
+}
+
+table.GeneratedTable td, table.GeneratedTable th {
+  border-width: 2px;
+  border-color: #590179;
+  border-style: solid;
+  padding: 3px;
+}
+
+table.GeneratedTable thead {
+  background-color: #53076e;
+}
+
+h2{
+
+  color: #09ebfb;
+
 }
